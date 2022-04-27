@@ -13,7 +13,7 @@ public class Axe implements HeroInter {
     private String assist;
 
     @Override
-    public void masterStoke() {
+    public void masterStroke() {
         System.out.println("harm output");
         masterStroke --;
         System.out.println("======== " + masterStroke + " ==========");

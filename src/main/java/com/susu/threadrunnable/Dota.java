@@ -12,7 +12,7 @@ public class Dota {
 
         System.out.println(((Axe)hero1).masterStroke);
 
-        hero2.masterStoke();
+        hero2.masterStroke();
 
         System.out.println(((Axe)hero1).masterStroke);
     }
